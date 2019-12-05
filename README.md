@@ -1,5 +1,5 @@
 الزعيم
-Termux is a project that contains a large set of tools that you can exploit and install easily across the sections in the tool is designed to facilitate you to install tool<<>s
+Termux هو مشروع يحتوي على مجموعة كبيرة من الأدوات التي يمكنك استغلالها وتثبيتها بسهولة عبر الأقسام الموجودة في الأداة المصممة لتسهيل قيامك بتثبيت الأداة <<> s
 
 >>use<<
 
